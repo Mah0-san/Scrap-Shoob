@@ -30,13 +30,3 @@
 
 ## 📄 License
 > Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE) for more information.
-
-## ✨ Contributors
-
-<a href="https://github.com/Issa2001/Scrap-Shoob/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Issa2001/Scrap-Shoob" />
-</a>
-
-## ⭐ Help
-
-> Please give this repo a ⭐ if it helped you.
