@@ -26,7 +26,7 @@
 - Contact me on [WhatsApp](https://wa.me/254115175696) for full API.
 
 ## 🔰 Disclaimer
-> This is an open source scrapper created by [`@Issa`](https://github.com/Issa2001). Therefore we're not affiliated anyhowly with [`Shoob`](https://shoob.gg) or with their trademark.
+> This is a private source scrapper created by [`@Issa`](https://github.com/Issa2001). Therefore we're not affiliated anyhowly with [`Shoob`](https://shoob.gg) or with their trademark.
 
 ## 📄 License
 > Distributed under the GNU AFFERO GENERAL PUBLIC License. See [LICENSE](/LICENSE) for more information.
