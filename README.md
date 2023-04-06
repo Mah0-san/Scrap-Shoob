@@ -10,7 +10,7 @@
 <a href="https://github.com/Issa2001"><img title="Author" src="https://img.shields.io/badge/Author-Issa2001-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Issa2001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-red.svg?style=for-the-badge"></a>
+<a href="https://github.com/Issa2001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-NO-red.svg?style=for-the-badge"></a>
 <a href="https://github.com/is7s7whs"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge"></a>
 </p>
 
